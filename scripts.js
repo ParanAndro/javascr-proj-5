@@ -1,6 +1,6 @@
 var namesOfWomen = ['Karolina', 'Klementyna', 'Katarzyna', 'Paulina', 'Patrycja'];
-	namesOfMan = ['Janusz', 'Bogumił', 'Patrycy', 'Dobromir', 'Anastazy'];
-	var completList = namesOfWomen.concat(namesOfMan);
+var namesOfMan = ['Janusz', 'Bogumił', 'Patrycy', 'Dobromir', 'Anastazy'];
+var completList = namesOfWomen.concat(namesOfMan);
 
 var newPosition = 'Franciszek';
 	if (completList.indexOf(newPosition) === -1) {
